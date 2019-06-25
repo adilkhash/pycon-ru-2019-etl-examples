@@ -1,0 +1,6 @@
+airflow
+luigi
+prefect
+requests
+pandas
+psycopg2
